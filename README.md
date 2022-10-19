@@ -32,7 +32,7 @@
 
 <div align= "center">
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/104023907/185979327-e4b4e480-4ea0-42d1-923e-63a8e591ead4.gif)
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
