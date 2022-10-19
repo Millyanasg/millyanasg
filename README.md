@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=000000&center=true&width=1000&lines=Olá,+eu+sou+Millyana+Souza%2C+Desenvolvedora+Full+Stack%2C;+Cursando+o+4%C2%B0+Periodo+de+Engenharia+de+Software.;+Bem+Vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=000000&center=true&width=1000&lines=Olá,+eu+sou+Millyana+Souza%2C+Desenvolvedora+Full+Stack%2C;+Cursando+o+5%C2%B0+Periodo+de+Engenharia+de+Software.;+Bem+Vindo(a)!)](https://git.io/typing-svg)
 
 
 > "Quanto mais estudo, mais sinto que minha mente nisso é insaciável." 
