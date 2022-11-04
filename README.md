@@ -16,11 +16,10 @@
   <img align="center" alt="Millyana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div></br>
 
-<div align= "center">
- 
-  
- ![cariacatura-mia](https://user-images.githubusercontent.com/104023907/184911014-9c0d0324-fa3c-49a5-8ccf-3c30e01bd9a7.jpg)
+<div align= "center" style="border-radius:50px">
 
+
+![Vídeo_AdobeExpress](https://user-images.githubusercontent.com/104023907/199953482-6ffeb286-1ea1-4bf5-a19f-a2577b306218.gif)
  </div>
 <div align= "center">
   
