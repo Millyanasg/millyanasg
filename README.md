@@ -26,7 +26,7 @@
  </div>
 <div align= "center">
    
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="35"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="30"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="40"/> </a> </p>
   <a href="https://instagram.com/millyanasg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto: millyanasg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/millyanasg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -39,10 +39,12 @@
 </div>
       <div align= "center" style="display: inline_block"><br>
   <a href="https://github.com/Millyanasg">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Millyanasg&show_icons=true&theme=white@C&include_all_commits=true&count_private=true"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millyanasg&layout=compact&langs_count=7&theme=white"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=millyanasg&show_icons=true&locale=pt-br" alt="millyanasg"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=millyanasg&show_icons=true&locale=pt-br&layout=compact" alt="millyanasg"/>
     </div>
           </br>
+  <p align="center"> <img height="35em" src="https://komarev.com/ghpvc/?username=millyanasg&label=Visitas%20no%20Perfil&color=CF8C95&style=flattrue&locale=pt-br" alt="millyanasg" /> </p>
+ 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 
